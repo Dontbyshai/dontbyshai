@@ -24,15 +24,12 @@ I'm **Shaï** (Dontbyshai), a French creator passionate about **web development*
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dontbyshai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dontbyshai&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192" />
-</div>
+<br>
 
 ## <div style="display: flex; align-items: center; height: 50px; gap: 10px;">How to contact me ? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" style="height: 40px;"></div>
 
 Feel free to contact me on the following platforms:
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Love%20Letter.webp" alt="Email" width="20" height="20" align="top" /> **Email**: [dontbyshai@gmail.com](mailto:dontbyshai@gmail.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Email" width="20" height="20" align="top" /> **Email**: [dontbyshai@gmail.com](mailto:dontbyshai@gmail.com)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Twitter" width="20" height="20" align="top" /> **Twitter**: [@Dontbyshai](https://twitter.com/Dontbyshai)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="LinkedIn" width="20" height="20" align="top" /> **LinkedIn**: [shai-chomette-dugat](https://www.linkedin.com/in/shai-chomette-dugat-276a542a0/)
-- 📷 **Instagram**: [@dontbyshai](https://www.instagram.com/dontbyshai/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Camera.webp" alt="Instagram" width="20" height="20" align="top" /> **Instagram**: [@dontbyshai](https://www.instagram.com/dontbyshai/)
