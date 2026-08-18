@@ -18,7 +18,7 @@ I'm **Shaï** (Dontbyshai), a French creator passionate about **web development*
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,swift,kotlin,linux,windows,html,css,git,github,nodejs,vscode,npm,astro,php,kali&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,swift,kotlin,linux,windows,html,css,git,github,nodejs,vscode,npm,astro,php,kali,cpp&theme=dark" alt="My Skills" />
   </a>
 </div>
 
