@@ -10,19 +10,15 @@ I'm **Shaï** (Dontbyshai), a French creator passionate about **web development*
 
 ## <div style="display: flex; align-items: center; height: 50px; gap: 10px;">What I'm working on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" style="height: 40px;"></div>
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Computer.webp" alt="Computer" width="25" height="25" /> I run **Shaï'Company**, focused on the creation of digital products, brands and online projects. You can check it out at [shaiscompany.com](https://shaiscompany.com/).
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Butterfly.webp" alt="Butterfly" width="25" height="25" /> I run **Shaï'Company**, focused on the creation of digital products, brands and online projects. You can check it out at [shaiscompany.com](https://shaiscompany.com/).
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Page%20Facing%20Up.webp" alt="Page Facing Up" width="25" height="25" /> I also have a personal website and blog at [shai.biz](https://shai.biz).
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> I also have a personal website and blog at [shai.biz](https://shai.biz).
 
 ## <div style="display: flex; align-items: center; height: 50px; gap: 10px;">Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" style="height: 40px;"></div>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,astro,vue,lua,html,css,linux,github,git,bun,nodejs,vscode,postman,md,npm,regex&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,astro,vue,lua,html,css,linux,github,git,bun,nodejs,vscode,postman,md,npm,regex&theme=light">
-      <img alt="My Skills" src="https://skillicons.dev/icons?i=js,ts,react,astro,vue,lua,html,css,linux,github,git,bun,nodejs,vscode,postman,md,npm,regex&theme=dark">
-    </picture>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,vue,swift,lua,net,html,css,linux,github,git,bun,nodejs,vscode,postman,md,mysql,postgresql,npm,regex&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -39,5 +35,4 @@ Feel free to contact me on the following platforms:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Love%20Letter.webp" alt="Email" width="20" height="20" align="top" /> **Email**: [dontbyshai@gmail.com](mailto:dontbyshai@gmail.com)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Twitter" width="20" height="20" align="top" /> **Twitter**: [@Dontbyshai](https://twitter.com/Dontbyshai)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="LinkedIn" width="20" height="20" align="top" /> **LinkedIn**: [shai-chomette-dugat](https://www.linkedin.com/in/shai-chomette-dugat-276a542a0/)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Camera.webp" alt="Instagram" width="20" height="20" align="top" /> **Instagram**: [@dontbyshai](https://www.instagram.com/dontbyshai/)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Headphone.webp" alt="Spotify" width="20" height="20" align="top" /> **Spotify**: [Dontbyshai](https://open.spotify.com/intl-fr/artist/47Nz6g4SrrfU7kFEjpxP6k)
+- 📷 **Instagram**: [@dontbyshai](https://www.instagram.com/dontbyshai/)
