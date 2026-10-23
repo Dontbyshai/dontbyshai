@@ -33,3 +33,5 @@ Feel free to contact me on the following platforms:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien.webp" alt="Twitter" width="20" height="20" align="top" /> **Twitter**: [@Dontbyshai](https://twitter.com/Dontbyshai)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="LinkedIn" width="20" height="20" align="top" /> **LinkedIn**: [shai-chomette-dugat](https://www.linkedin.com/in/shai-chomette-dugat-276a542a0/)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Camera.webp" alt="Instagram" width="20" height="20" align="top" /> **Instagram**: [@dontbyshai](https://www.instagram.com/dontbyshai/)
+
+open "https://windscribe.com/install/desktop/osx"
